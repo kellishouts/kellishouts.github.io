@@ -1,8 +1,6 @@
-# Portfolio and Resume
-## Jon Borgonia
+# Portfolio & Resume
+## Kelli Borgonia
 
-[Online Resume](http://theRemix.github.io)
+[Online Resume](http://kellishouts.github.io)
 
 [Resume PDF](./Resume.pdf)
-
-[Portfolio PDF](http://theRemix.github.io/portfolio.pdf)
